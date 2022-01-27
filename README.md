@@ -1,2 +1,2 @@
 # parallax-animation-website-master
-parallax-animation-website-masterr
+parallax-animation-website-master
